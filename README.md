@@ -34,7 +34,7 @@ The riders entity includes identifying information about each rider including th
 
 
 
-<img width="811" height="722" alt="Screenshot 2025-10-16 at 5 30 57 PM" src="https://github.com/user-attachments/assets/e0fd8979-640e-4888-abbd-77e578331977" />
+<img width="886" height="723" alt="image" src="https://github.com/user-attachments/assets/482edd0f-4c6d-4bd9-8720-55c879ca0581" />
 
 
 ## Data Dictionary:
