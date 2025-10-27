@@ -47,61 +47,61 @@ The riders entity includes identifying information about each rider including th
 
 1. What is the revenue that comes in from each pass type? - Simple
    
-![Screen Shot 2023-03-31 at 5 50 12 PM](https://user-images.githubusercontent.com/128402101/229239154-7637136b-5ddd-400c-9335-f3e571507ed7.png)
+<img width="1062" height="807" alt="image" src="https://github.com/user-attachments/assets/ce56dd9b-9c1c-45f6-8eca-a82ba58669d1" />
 
 Query 1 allows managers to see which pass types received the most revenue. This is helpful for managers to identify things like which passes are the most popular, which passes need a price increase/decrease, which passes would benefit from promotions and deals, and which passes need to be stocked up more often.
 
 2. What are the names of riders, along with the dates and amounts of their transactions that are over $50? - Simple
-   
-![Screen Shot 2023-03-31 at 5 50 39 PM](https://user-images.githubusercontent.com/128402101/229239237-725cac35-598a-49e5-9b5d-bfc96fb18714.png)
+
+
 
 Query 2 is helpful for managers to identify high-value clients, such as clients purchasing passes in bulk. With this information, managers know things like who to incentivize or reward with deals or special promotions, especially if the purchases start to slow down from a repeat customer. It could also serve to identify suspicious activity if an unusually high purchase is made.
 
 3. List the busiest boarding stations. - Simple
 
-![Screen Shot 2023-03-31 at 5 52 01 PM](https://user-images.githubusercontent.com/128402101/229239403-19acc956-7345-406e-b7ba-a6eaf1c8db88.png)
+
 
 Query 3 is helpful for managers to identify which stations are the most busy. This information can help managers know how many staff and other resources need to be put towards each station to maximize efficiency and their use of resources. 
 
 4. List the service frequency as the total number of trips per day. - Simple
  
-![Screen Shot 2023-03-31 at 5 53 30 PM](https://user-images.githubusercontent.com/128402101/229239730-7f5416bd-0aff-4c4a-b64d-7f365f246a36.png)
+
 
 Query 4 allows the manager to see the total number of trips made per day. This information can help the manager identify how many trips should be made on an average day. A manager can look at an above-average day and try to find out what caused the increase, or look at a below-average day to find out what caused the drop in trips. It could also help identify specific days of the week or holidays where more or less staffing is necessary.
 
 5. List the frequent travelers (riders with more than 2 trips) - Complex
    
-![Screen Shot 2023-03-31 at 5 54 41 PM](https://user-images.githubusercontent.com/128402101/229239947-e3c0ab47-c77c-474b-81c1-1b187548b89c.png)
+
 
 Query 5 allows the manager to see which travelers are marked as "frequent travelers". This information can help managers decide which customers to promote certain deals to as well as how their trip frequency is affected by certain changes made by the management. 
 
 6. Which stations have an above average number of trips? - Complex
 
-![Screen Shot 2023-03-31 at 5 55 37 PM](https://user-images.githubusercontent.com/128402101/229240045-10ca60c7-1cb2-49e2-a224-256c841e5fd8.png)
+
 
 Query 6 allows the manager to see which stations have more than the average number of trips. Since the number of trips affects the amount of maintenance and staffing required, this information allows the manager to identify which stations could potentially need more staffing or even which ones have too many resources being put towards them.
 
 7. Which managers supervise employees whose average wage per hour is higher than the overall system average? - Complex
 
-![Screen Shot 2023-03-31 at 5 56 06 PM](https://user-images.githubusercontent.com/128402101/229240108-152740f1-4c85-4a38-9194-c981cf33fc42.png)
+
 
 Query 7 allows the managers to see which managers supervise employees who are paid higher per hour than the average. This could provide crucial information about why employee turnover is the way it is. It could also lead them to look further into the reasoning behind why they are being paid more than average and if it is worth the cost or losing them money. 
 
 8. Identify depots that have more than 30 trains assigned to them - Complex
 
-![Screen Shot 2023-03-31 at 6 34 05 PM](https://user-images.githubusercontent.com/128402101/229244470-c29f68b3-f837-4a18-97bb-f86345b84431.png)
+
 
 Query 8 helps managers to identify which depots have more than 30 trains assigned to them. This information allows managers to know which depots to pay greater attention to, as complications or shutdowns could have a much bigger impact at one of these depots than at a smaller one.
 
 9. Find the top 5 most profitable pass types based on total transaction amounts, including average spend per rider - Complex
 
-![Screen Shot 2023-03-31 at 5 56 31 PM](https://user-images.githubusercontent.com/128402101/229240166-bb0bc849-08dd-4521-8608-7a85ff53ae46.png)
+
 
 Query 9 allows managers to identify which are the most profitable pass types. This information could help managers identify which pass types they want to be pushed at the point of sale, as well as which ones they want to advertise the most. This information could also serve to help identify which passes would benefit from discounts and which could profit more with a raise in price.
 
 10. Identify the top 3 trains with the highest average passenger load per trip - Complex
 
-![Screen Shot 2023-03-31 at 5 57 00 PM](https://user-images.githubusercontent.com/128402101/229240218-c01fb32b-5f71-4562-b014-b656bfe051bb.png)
+
 
 Query 10 identifies the top 3 trains that, on average, carry the most passengers per trip, showing their train IDs, types, capacities, total riders, total trips, and average passengers per trip. By finding which trains consistently carry the most passengers per trip, management can see which routes or train types are most popular. These are trains that are operating near or at full capacity.
 
