@@ -53,11 +53,13 @@ Query 1 allows managers to see which pass types received the most revenue. This 
 
 2. What are the names of riders, along with the dates and amounts of their transactions that are over $50? - Simple
 
+<img width="886" height="682" alt="image" src="https://github.com/user-attachments/assets/3cbef6fb-3604-4ead-a469-2e1305e2cda6" />
 
 
 Query 2 is helpful for managers to identify high-value clients, such as clients purchasing passes in bulk. With this information, managers know things like who to incentivize or reward with deals or special promotions, especially if the purchases start to slow down from a repeat customer. It could also serve to identify suspicious activity if an unusually high purchase is made.
 
 3. List the busiest boarding stations. - Simple
+
 
 
 
