@@ -137,7 +137,7 @@ Query 10 identifies the top 3 trains that, on average, carry the most passengers
 
 ## Database information:
 
-Name of the database: ns_15058_Group4
+Name of the database: ns_F25MIST4610_15058_Group4
 
 Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: 
 CALL TP_Q1();
